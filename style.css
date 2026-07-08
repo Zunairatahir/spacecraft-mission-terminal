@@ -1,0 +1,20 @@
+html,
+body{
+    margin:0;
+    height:100%;
+    background:#050805;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:'Courier New', monospace;
+}
+
+canvas{
+    background:#0A0E0A;
+    box-shadow:
+        0 0 40px rgba(51,255,102,0.15),
+        0 0 0 2px #1A2E1A;
+    border-radius:6px;
+    max-width:95vw;
+    height:auto;
+}
