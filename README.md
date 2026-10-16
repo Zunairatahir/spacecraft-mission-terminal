@@ -4,11 +4,6 @@ A retro-inspired spacecraft mission terminal built with **HTML5 Canvas**, **CSS3
 
 ---
 
-## Preview
-
-<img width="400" height="261" alt="terminal" src="https://github.com/user-attachments/assets/16be3334-5206-4e98-9c92-38d14e10d1a3" />
-
-
 ## Technologies Used
 
 | Technology | Purpose |
